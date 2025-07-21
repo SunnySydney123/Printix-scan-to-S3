@@ -3,6 +3,8 @@
 This Azure Function uploads a Printix scan document to an AWS S3 Bucket.  
 It’s written in **Python** and developed using **VSCode**.
 
+Watch technical setup instructions here, https://youtu.be/YahDDO_azEg
+
 ## 📖 Function Overview
 
 - On a new scan, receives **webhooks from Printix**.
